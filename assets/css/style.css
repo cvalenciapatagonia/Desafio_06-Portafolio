@@ -29,32 +29,30 @@
   background-position: center;
 }
 
-#Mis-proyectos{
+#Mis-proyectos {
   background-image: url("../img/fondo\ \(7\).jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
-#Acerca-de-mi{
+#Acerca-de-mi {
   color: black;
 }
 
-#Contacto{
-color: black;
+#Contacto {
+  color: black;
 }
 
-footer{
-  background-color: black;
-}  
-
-.button-custom{
+footer {
   background-color: black;
 }
 
-.subtitulo2{
+.button-custom {
+  background-color: black;
+}
+
+.subtitulo2 {
   display: inline;
   font-size: 2em;
- 
 }
-
