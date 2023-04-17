@@ -22,12 +22,12 @@
   height: 650px;
 }
 
-#Mis-proyectos .image-top {
+/* #Mis-proyectos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
+} */
 
 #Mis-proyectos {
   background-image: url("../img/fondo\ \(7\).jpg");
