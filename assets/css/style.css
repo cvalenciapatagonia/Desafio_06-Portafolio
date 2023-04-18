@@ -3,8 +3,7 @@
 }
 
 .img-logo {
-  height: 250px;
-  width: 350px;
+  width: 10%;
 }
 
 @media (max-width: 576px) {
